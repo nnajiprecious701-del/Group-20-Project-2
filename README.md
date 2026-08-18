@@ -1,4 +1,4 @@
-#Group-20-Project-2
+# Group-20-Project-2
 EMCICT311 Group 20 Project 2
 Note Application
 This project is a simple Note Application developed as a group project.
